@@ -138,3 +138,9 @@ We can also use short declaration **(:=)** to declare variable.
 
     output :Harsh Mehra
             Variable is of type: string
+
+**💥 Variable name in Capital :** Starting global variable name with **capital letter** means this variable can be accessed in another packages. This is similar to **public** we see in other languages.
+
+    Example:
+
+    var ExportedPackage string = "I am visible outside my package"
