@@ -22,7 +22,7 @@
     	fmt.Println("Hello World!");
     }
 
-5️⃣ Now to run the file we just need to give command **go run fileName**.
+5️⃣ Now to run the file we just need to give command **"go run fileName"**.
 
 6️⃣ Command we use to find the go environment **"go env GOPATH"**
 
