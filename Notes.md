@@ -143,4 +143,4 @@ We can also use short declaration **(:=)** to declare variable.
 
     Example:
 
-    var ExportedPackage string = "I am visible outside my package"
+    var ExportedPackage string = "I am visible outside my package".
