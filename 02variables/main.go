@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-var ExportVariable string = "I am visible outside my package."		// public variable
+var ExportVariable string = "I am visible outside my package."		// Declaring variable starting with capital letter means its an "public variable".
 
 func main() {
 	var username string = "Harsh Mehra"		// declaring variable string type
